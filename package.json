@@ -1,0 +1,13 @@
+{
+  "name": "redbrick",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "author": "Abhishek <abhshk.btra@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
